@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wilderness", "Wilderness.csproj", "{B4519CC6-36C2-432E-B87A-28AC3B531C3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4519CC6-36C2-432E-B87A-28AC3B531C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4519CC6-36C2-432E-B87A-28AC3B531C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4519CC6-36C2-432E-B87A-28AC3B531C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4519CC6-36C2-432E-B87A-28AC3B531C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD12018C-C03D-4A90-B62C-C5A4E724F442}
+	EndGlobalSection
+EndGlobal
